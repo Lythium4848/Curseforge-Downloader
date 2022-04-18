@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "protocol-registry": "^1.0.1"
+  },
+  "name": "curseforge-downloader",
+  "description": "A simple CurseForge Minecraft modpack downloader. Made to replace the CurseForge app because Overwolf sucks",
+  "version": "1.0.0",
+  "main": "install.js",
+  "scripts": {
+    "download": "node install.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lythium4848/CurseForge-Downloader.git"
+  },
+  "keywords": [
+    "curseforge",
+    "minecraft",
+    "forge",
+    "fabric"
+  ],
+  "author": "Lythium",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lythium4848/CurseForge-Downloader/issues"
+  },
+  "homepage": "https://github.com/Lythium4848/CurseForge-Downloader#readme"
+}
