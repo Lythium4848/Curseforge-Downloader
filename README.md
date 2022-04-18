@@ -1,6 +1,7 @@
 # CurseForge-Downloader
 A simple CurseForge Minecraft modpack downloader. Made to replace the CurseForge app because Overwolf sucks
-**Does not work with Forge modpacks for whatever reason**
+- Does **NOT** work with Forge modpacks for whatever reason
+- Might break
 
 ### Setup
 **Make sure you have [NodeJS](https://nodejs.org/en/) Installed**
