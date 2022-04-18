@@ -2,6 +2,7 @@
 A simple CurseForge Minecraft modpack downloader. Made to replace the CurseForge app because Overwolf sucks
 
 ### Setup
+**Make sure you have [NodeJS](https://nodejs.org/en/) Installed**
 1. Go to https://console.curseforge.com/?#/api-keys and get an Api Key
 2. Rename **example-config.json** to **config.json**
 3. Enter the Api Key you got from [here](https://console.curseforge.com/?#/api-keys) into `"APIKey": "HERE"`
